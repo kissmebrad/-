@@ -1,0 +1,14 @@
+# Obsidian — 기기별 상태/캐시 (동기화 대상 아님)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# macOS / 시스템 파일
+.DS_Store
+.AppleDouble
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*~
